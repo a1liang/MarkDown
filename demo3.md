@@ -52,9 +52,9 @@ Github Flvored Markdown, GFM
 
 task list 
 
-- [x] item1
-- [ ] item2
-- [x] item3
+- [x] task1
+- [ ] task2
+- [x] task3
 
 emoji 表情符号
 
