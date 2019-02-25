@@ -16,7 +16,7 @@
 ## 图片 demo
 
 - 图片的MarkDown语法
-![alt](url txt)
+![alt](url text)
 - 外部图片 demo
 ![baidu](https://www.baidu.com/img/bd_logo1.png "百度网站")
 
@@ -65,4 +65,4 @@ console.log(a);
 [代码块demo]: demo2.md#代码块-demo
 
 [open_png]: images/open.png
-[baidu_log]: https://www.baidu.com/img/bd_logo1.png
+[baidu_logo]: https://www.baidu.com/img/bd_logo1.png
