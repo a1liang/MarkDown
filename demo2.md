@@ -28,7 +28,7 @@
 - 外部图片 demo  
 ![baidu][baidu_logo]
 
-- 仓库内的图片 demo
+- 仓库内的图片 demo  
 ![][open_png]
 
 ## 引用 demo
